@@ -1,7 +1,7 @@
 
 # This is a Github Repository. 
 
-### This is the medium heading 
+### This is a medium sized heading 
 
 ###### This is the smallest heading
 
