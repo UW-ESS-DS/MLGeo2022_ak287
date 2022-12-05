@@ -33,7 +33,7 @@ Here is the [link](https://github.com/UW-ESS-DS/MLGeo-Autumn22) to class Github.
 Here is an example of including an image.
 
 
-![Machine Learning]([https://pbs.twimg.com/profile_images/1597793647097184256/CRarg4D6_400x400.jpg](https://www.wordstream.com/wp-content/uploads/2021/07/machine-learning.png))
+![Machine Learning](https://www.wordstream.com/wp-content/uploads/2021/07/machine-learning.png)
 
 
 ### My favourite earth sciences topics are - 
