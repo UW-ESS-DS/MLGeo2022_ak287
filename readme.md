@@ -12,6 +12,15 @@ This github repositoy belongs to **Akash Kharita**, He is a PhD student in ***Se
 
 But if we just want a part of sentence to be in quote, we can also do `that`
 
+We can also put an entire block of text into quotes by using trip backticks. For example - 
+
+```
+git status
+git add 
+git push
+
+```
+
 Here is the [link](https://github.com/UW-ESS-DS/MLGeo-Autumn22) to class Github. 
 
 
