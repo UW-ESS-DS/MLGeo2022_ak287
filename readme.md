@@ -23,9 +23,9 @@ git push
 
 1. Here is how we can clone our github repository
    - git clone link
-     - git add
-       - git commit *
-         - git push  
+   - git add
+   - git commit *
+   - git push  
 
 
 Here is the [link](https://github.com/UW-ESS-DS/MLGeo-Autumn22) to class Github. 
