@@ -21,6 +21,13 @@ git push
 
 ```
 
+1. Here is how we can clone our github repository
+   - git clone link
+     - git add
+       - git commit *
+         - git push  
+
+
 Here is the [link](https://github.com/UW-ESS-DS/MLGeo-Autumn22) to class Github. 
 
 ![Here is my picture taken in front of a waterfall at Qinault Rainforest trail](https://pbs.twimg.com/profile_images/1597793647097184256/CRarg4D6_400x400.jpg)
